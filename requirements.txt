@@ -3,6 +3,7 @@ psycopg2
 sounddevice
 numpy
 google-cloud-speech
+pyaudio
 google-generativeai
 python-dotenv
 flask-cors
