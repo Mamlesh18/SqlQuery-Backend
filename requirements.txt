@@ -1,0 +1,9 @@
+Flask
+psycopg2
+sounddevice
+numpy
+google-cloud-speech
+google-generativeai
+python-dotenv
+flask-cors
+Gunicorn
